@@ -20,7 +20,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 - **Name:** Majoi  
  
 - **Location:** Myanmar  
-- **Interests:** Pentesting | SOC | CTF | AI
+- **Interests:** Cybersec | SOC | CTF | AI
 
 <hr>
  <h1 align="left">
