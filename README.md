@@ -175,7 +175,7 @@ To become a professional cybersecurity specialist capable of identifying vulnera
 
 <hr>
 <p align="center">
-💬 <em>"The quieter you become, the more you are able to hear."</em> — Kali Linux
+💬 <em>"I did something awful actually it's my first time on earht."</em> 
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
