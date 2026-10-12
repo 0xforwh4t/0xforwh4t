@@ -19,7 +19,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 ##  Personal Information
 - **Name:** Majoi  
  
-- **Location:** Myanmar  
+- **Location:** //\//\\//\//\  
 - **Interests:** Cybersec | SOC | CTF | AI
 
 <hr>
